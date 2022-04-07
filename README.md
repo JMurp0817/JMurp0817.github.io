@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my Gihub.IO
 
-You can use the [editor on GitHub](https://github.com/JMurp0817/JMurp0817.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Currently studying computer science at Boise State University. I enjoy working with my peers to assemble new ideas and bring them to light. Througout my college career I have put together a few projects that showcase some of my skills as an engineer and developer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### CS 455 Distributed Systems Identity Server
 
-### Markdown
+This project consisted of designing and creating a server to store, create, and maintain a database of users using remote procedure calls. I worked on this in a team where we put together a thorough design before dividing and working on separate portions of the project before bringing it together and consolidating our work into a useful program.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JMurp0817/JMurp0817.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
